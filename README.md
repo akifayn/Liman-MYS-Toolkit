@@ -2,6 +2,16 @@
 ### Muhammet Akif AYAN - 214210040
 ### Hitit Üniversitesi Bilgisayar Mühendisliği
 
+HAVELSAN Liman Merkezi Yönetim Sistemi için ders projesi olarak hazırlanmış Bash araç seti.
+Tek komutla Node.js, PHP ve PostgreSQL depolarını ekleyip Liman paketini kurar; kaldırma,
+yönetici parolası sıfırlama, geçici giriş bilgisi alma ve web arayüzünü açma komutları sunar.
+Tüm işlemler zaman damgasıyla log dosyasına kaydedilir.
+
+A Bash toolkit built as a course project for the HAVELSAN Liman Central Management System.
+A single command adds the Node.js, PHP and PostgreSQL repositories and installs Liman. It also
+covers removal, admin password reset, temporary credentials and opening the web interface,
+with timestamped logging of every operation.
+
 
 ## Web Arayüzü
 
